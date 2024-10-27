@@ -1,0 +1,15 @@
+# Future Badges
+
+![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff&style=flat-square)
+![Garmin Badge](https://img.shields.io/badge/Garmin-000?logo=garmin&logoColor=fff&style=flat-square)
+![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat-square)
+![Logstash Badge](https://img.shields.io/badge/Logstash-005571?logo=logstash&logoColor=fff&style=flat-square)
+![MQTT Badge](https://img.shields.io/badge/MQTT-606?logo=mqtt&logoColor=fff&style=flat-square)
+![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat-square)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
+![Stripe Badge](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff&style=flat-square)
+![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat-square)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
+![Three.js Badge](https://img.shields.io/badge/Three.js-000?logo=three.js&logoColor=fff&style=flat-square)
+![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat-square)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square)
