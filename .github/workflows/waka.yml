@@ -14,6 +14,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           DEBUG_LOGGING: True
+          SHOW_AI_CODE_TIME: False
+          SHOW_AI_CODING: False
           SHOW_COMMIT: True
           SHOW_DAYS_OF_WEEK: True
           SHOW_EDITORS: False
@@ -22,11 +24,14 @@ jobs:
           SHOW_LINES_OF_CODE: False
           SHOW_LOC_CHART: False
           SHOW_OS: True
-          SHOW_PROFILE_VIEWS: False
+          SHOW_PROFILE_VIEWS: True
           SHOW_PROJECTS: False
           SHOW_SHORT_INFO: False
           SHOW_TIMEZONE: True
           SHOW_TOTAL_CODE_TIME: False
           SHOW_UPDATED_DATE: True
+          LOCALE: "en"
+          COMMIT_MESSAGE: "Updated with Dev Metrics"
+          BADGE_STYLE: "flat"
           SYMBOL_VERSION: 2
           UPDATED_DATE_FORMAT: "%d.%m.%Y %H:%M:%S"
